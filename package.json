@@ -1,0 +1,17 @@
+{
+  "name": "mean-demo",
+  "version": "1.0.0",
+  "description": "A demo for mean",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "mongojs": "latest",
+    "body-parser": "latest"
+  },
+  "author": "Alexandre Le Goff",
+  "license": "ISC"
+}
